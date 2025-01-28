@@ -40,12 +40,46 @@ After selecting a monster, the user must choose their opponent (same input from 
 ![Screenshot (118)](https://github.com/user-attachments/assets/df3e1fb1-6b86-40cb-871e-3add1c965bc5)
 
 ## Step 9: 
-Once both monsters are selected, the battle commences. This battle is interactive as the user can proceed to the next event by pressing the \[Enter] key.
+Once both monsters are selected, the battle commences. This battle is interactive as the user can proceed to the next event during each turn by pressing the \[Enter] key.
 
 ![Screenshot (119)](https://github.com/user-attachments/assets/d66f038a-8a86-4a9a-ac75-53a99e06964d)
 
 
 ## Step 10: 
+First monster takes the turn to attack their opponent.
+
+![Screenshot (120)](https://github.com/user-attachments/assets/393c3263-ade4-4b4c-b868-f4843511a54f)
+
+## Step 11:
+Opponent is getting ready to attack next.
+
+![Screenshot (121)](https://github.com/user-attachments/assets/74dc21bf-7f4f-4990-87e2-75e16452ff8d)
+
+## Step 12:
+Opponent takes the turn to attack.
+
+![Screenshot (122)](https://github.com/user-attachments/assets/c2bfcb56-0886-49bc-9d1f-0bc4ac1430bd)
+
+## Step 13: 
+Battle continues through next round. There are a random number of rounds.
+
+![Screenshot (123)](https://github.com/user-attachments/assets/dbcae026-44b2-4256-9a1a-29c185a18c20)
+
+## Step 14: 
+The battle continues until one of the monsters lose all their health. The winner is then decided and the user is taken back to the main menu.
+
+![Screenshot (124)](https://github.com/user-attachments/assets/328c8211-47c3-4375-8b84-5cf343210e8e)
+
+## Step 15:
+The user can exit the program by entering '3'.
+
+![Screenshot (125)](https://github.com/user-attachments/assets/eada909f-6e62-4666-8fba-64cb5d181f8b)
+
+
+
+
+
+
 
 
 
